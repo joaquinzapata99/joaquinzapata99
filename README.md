@@ -1,83 +1,50 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Joaquin Zapata</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="left">👋 Hello, my name is Joaquin</h1>
 
-<br />
+###
 
-<a href="joaquinzapata99@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+<h2 align="left">About me</h2>
 
+###
 
-<br />
-<br />
+<ul align="left">
+  <li>🎓 Master's degree in Big Data & Cloud at EDEM</li>
+  <li>💼 2+ years of experience in Private Equity</li>
+</ul>
 
-Hi, I'm Joaquin Zapata, a Big Data & Cloud Master's Degree student in Valencia ES.
+###
 
-<a href="#"><img align="right" img="(https://media.licdn.com/dms/image/v2/C4E03AQFO7IvA4of27Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1657007013726?e=1733356800&v=beta&t=TLUQYECfbmCBA2YUZ0eF4vD6QRKGQ9rqntZrNKHz3ro)" width="200 " height="200" /></a>
+<h4 align="center">Tech Stack</h4>
 
-## ✏️ Recent Blog
+###
 
-- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>EDEM 1</a> - 2019-05-18
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>EDEM 2</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>EDEM 3</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>EDEM 4</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>EDEM 5</a> - 2019-02-08
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-<!-- blog_plugin_start -->
+###
 
-<!-- blog_plugin_end -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaquin-zapata-avendano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<!-- github_plugin_start -->
+###
 
-## ⛳️ Project Release
+<div align="center">
+  <img src="https://profile-counter.glitch.me/joaquinzapata99/count.svg?"  />
+</div>
 
-- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.4' target='_blank'>blackcater@v1.0.4</a> - 2021-05-04
-  <br/> Support pre-release.
-- <a href='https://github.com/blackcater/tailwind-plugin-tokens/releases/tag/3.2.2' target='_blank'>tailwind-plugin-tokens@3.2.2</a> - 2024-09-26
-  <br/> Release 3.2.2
-- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>unisite@v0.1.0-alpha.3<sup>pre-release</sup></a> - 2021-04-29
-  <br/> Migrate to windicss.
-- <a href='https://github.com/blackcater/gatsby-plugin-windicss/releases/tag/0.1.0' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - 2021-05-14
-  <br/> Support windicss@3
-- <a href='https://github.com/blackcater/LeetCodeCN-Dark/releases/tag/v1.4.3' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - 2021-02-07
-
-<!-- github_plugin_end -->
-
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
-
-
-<!-- wakatime_plugin_end -->
-
-**Languages and Tools:**
-
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
-</p>
-
-<!-- badge_plugin_start -->
-
----
-
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
-<a href="https://github.com/blackcater/blackcater/blob/main/LICENSE" alt="https://github.com/blackcater/blackcater/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
-
-<!-- badge_plugin_end -->
-
-<!--
-**joaquinzapata99/joaquinzapata99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
