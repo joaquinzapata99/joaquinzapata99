@@ -8,7 +8,10 @@
 
 <ul align="left">
   <li>🎓 Master's degree in Big Data & Cloud at EDEM</li>
-  <li>💼 2+ years of experience in Private Equity</li>
+  <li>💼 2+ years of experience in Venture Capital and Private Equity</li>
+  <li>💻 Passionate about data, technology, and building impactful digital products</li>
+  <li>🚀 Ex-founder of a custom gaming PC business — combining tech and entrepreneurship</li>
+  
 </ul>
 
 ###
