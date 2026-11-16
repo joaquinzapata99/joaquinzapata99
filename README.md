@@ -40,6 +40,7 @@ I sit at the intersection of **Product, AI, and Business** — turning messy com
 
 | Project | The Idea & Impact | Stack |
 | :--- | :--- | :--- |
+| **Peru B2B Intelligence Engine** *(Private)* | B2B sales & market intelligence platform connecting **18M+ SUNAT tax registries**, **OSCE corporate ownership/directors**, and **customs import data** into a searchable entity graph with decision-maker enrichment. | `Python` · `DuckDB` · `Web App` · `Data Enrichment` |
 | **Polymarket Weather Trading Bot** *(Private)* | Automated trading bot targeting weather prediction markets on Polymarket. | `Python` · `APIs` · `Automation` |
 | **MungerTracker** *(Private)* | Charlie Munger–inspired **200-Week Moving Average stock scanner**, value screener, and backtesting dashboard across 500+ tickers with automated alerts. | `Streamlit` · `Python` · `yfinance` · `Plotly` · `GitHub Actions` |
 | **Gym Bet Tracker** *(Private)* | Social accountability app built for a gym bet with friends — enforces **in-app camera-only check-ins** (no gallery uploads) to prove you actually showed up. | `App` · `Camera Verification` |
