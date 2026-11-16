@@ -30,6 +30,7 @@ I sit at the intersection of **Product, AI, and Business** — turning messy com
 
 | Project | The Idea & Impact | Stack |
 | :--- | :--- | :--- |
+| **CaixaBank Master's Thesis (TFM)** *(Private)* | End-to-end **AI talent & upskilling recommendation platform** built for CaixaBank — parses employee CVs, identifies role skill gaps, and recommends courses via semantic search. | `GCP` · `BigQuery` · `Airflow` · `Dataflow` · `Streamlit` · `Terraform` |
 | **[NutriBot Agent](https://github.com/Marcanta7/nutribot_agent)** | Conversational AI nutritionist that recommends personalized meal plans tailored to food intolerances and real-time ingredient prices. | `LangGraph` · `Weaviate` · `BigQuery` · `Firebase` |
 | **[Tindrahood](https://github.com/joaquinzapata99/DP_1_Oficial)** | Real-estate & neighborhood discovery product for Valencia — helps users find ideal neighborhoods, list properties, and spot high-ROI investment flats. | `Python` · `Product` · `Data Analysis` |
 | **[ResqLink](https://github.com/joaquinzapata99/Data_Project_2)** | Real-time emergency response platform matching volunteers with people in crisis based on urgency and availability. | `Python` · `Terraform` · `Cloud` |
